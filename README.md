@@ -5,7 +5,7 @@ Este repositorio contiene las fuentes y el código del **Recurso Educativo Abier
 Este REA ha sido diseñado como una guía metodológica y práctica orientada al profesorado de la comunidad autónoma de Andalucía, con el objetivo de facilitar la planificación, configuración y aplicación de la evaluación formativa y sumativa a través de la herramienta oficial "Cuaderno de Séneca".
 
 * **Acceso a la versión web:** [https://juanmale14.github.io/REA-cuaderno-S-neca-2026./](https://juanmale14.github.io/REA-cuaderno-S-neca-2026./)
-* **Autor:** Juanma León ([@juanmale14](https://github.com/juanmale14))
+* **Autor:** Juanma López Esparrell (https://blogsaverroes.juntadeandalucia.es/ellocodelamochila/portada/)
 * **Herramienta de autoría:** [eXeLearning](https://exelearning.net/)
 
 ---
